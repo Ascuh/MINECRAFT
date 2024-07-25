@@ -11,53 +11,11 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-07-25 19:26:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
@@ -65,29 +23,11 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2024-07-25 20:32:06 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-07-25 19:26:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
-    },
-    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -100,36 +40,6 @@
       "loot_bosses_a": "2024-07-25 19:26:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
-    },
-    "done": false
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -149,15 +59,45 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
+      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-07-25 20:56:23 +0000"
+      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-07-25 19:26:57 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-07-25 20:32:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "wasteland": "2024-07-25 23:48:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2024-07-25 23:48:05 +0000"
     },
     "done": false
   },
