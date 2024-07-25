@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "e382b656-dcc4-3691-a5cf-75af4618c72c",
+    "name": "Ascuh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "b62f0a5d-c2d6-4b24-a089-969598210995",
     "name": "Ascuh",
     "level": 4,
